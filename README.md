@@ -1,4 +1,4 @@
-# comp562
+# COMP562 Final Project
 COMP 562 Final Paper
 
 Authors: Sneha Jaikumar, Guning (Emily) Shen, Shefali Pai, Annabelle Jiang
